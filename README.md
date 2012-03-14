@@ -1,9 +1,15 @@
 Introduction
 ============
 
-`chrome_mru` is a small (<50kb) Windows application that run in the trailbar.
+`chrome_mru` is a small (<50kb) Windows standalone application that runs in the trailbar.
 
-Its goal is to enable you to use CTRL+TAB in Google Chrome with the Most Recently Used Tab behavior (and not the default next/previous tab).
+Its goal is to enable you to use `CTRL+TAB` in Google Chrome with the `Most Recently Used` (MRU) Tab behavior (and not the default next/previous tab).
+
+After [270 comments](http://code.google.com/p/chromium/issues/detail?id=5569) of upseted people, we still not be able to use CTRL+TAB in Google Chrome with the
+Most Recently Used order.
+
+It was the only reason I never moved to Chrome but since I was fed up to wait, I developed this small program to be able to do what I want. Of course
+it's not user friendly, not easy to install, but it does what I want. So if, like me, you are fed up to wait, use it, fork it and share it!
 
 Installation
 ============
